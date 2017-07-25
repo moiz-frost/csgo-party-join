@@ -1,0 +1,17 @@
+{
+  "name": "csgo-partyinvite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/casperjs casperscript.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "nightmare": "^2.10.0",
+    "phantomjs-prebuilt": "^2.1.14"
+  }
+}
